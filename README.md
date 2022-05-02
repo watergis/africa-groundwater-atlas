@@ -29,3 +29,20 @@ tippecanoe \
 -o ./data/africa-groundwater.mbtiles \
 --force
 ```
+
+## extract mbtiles to pbf
+
+```
+tile-join \
+--force \
+--no-tile-compression \
+--output-to-directory=docs/tiles \
+--no-tile-size-limit \
+./data/africa-groundwater.mbtiles
+```
+
+- export vector_layers
+
+```
+JSON.stringify(JSON.parse(require('./docs/tiles/metadata.json').json))
+```
