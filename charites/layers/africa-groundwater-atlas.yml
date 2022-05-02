@@ -1,0 +1,9 @@
+id: africa-groundwater-atlas
+type: fill
+source: africa-groundwater-atlas
+source-layer: africa-groundwater-atlas
+paint:
+  fill-color: rgba(204, 251, 246, 1)
+  fill-outline-color: rgba(0, 0, 0, 1)
+  fill-opacity: 0.5
+maxzoom: 10

@@ -52,3 +52,11 @@ tile-join \
 ```
 JSON.stringify(JSON.parse(require('./docs/tiles/metadata.json').json))
 ```
+
+## charites
+
+```
+charites serve charites/style.yml
+
+charites build charites/style.yml docs/style.json
+```

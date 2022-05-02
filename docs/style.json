@@ -1795,7 +1795,6 @@
           ]
         },
         "line-opacity": 1,
-        "line-opacity": 1,
         "line-color": {
           "stops": [
             [
@@ -3209,7 +3208,6 @@
             ]
           ]
         },
-        "line-opacity": 1,
         "line-opacity": 1,
         "line-color": {
           "stops": [
