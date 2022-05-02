@@ -1,0 +1,23 @@
+{
+  "name": "africa-groundwater-atlas",
+  "version": "1.0.0",
+  "description": "This repository is to manage vector tiles for Africa Groundwater Atlas data.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watergis/africa-groundwater-atlas.git"
+  },
+  "author": "Jin Igarashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watergis/africa-groundwater-atlas/issues"
+  },
+  "homepage": "https://github.com/watergis/africa-groundwater-atlas#readme",
+  "dependencies": {
+    "glob": "^8.0.1",
+    "shapefile": "^0.6.6"
+  }
+}
