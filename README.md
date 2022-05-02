@@ -7,6 +7,12 @@ This data is using Africa Groundwater Atlas (see [here](http://earthwise.bgs.ac.
 
 All data from Africa Groundwater Atlas is under [Creative Commons ‘Attribution/Share Alike’ (CC BY SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
 
+## Demo
+
+See from [here](https://watergis.github.io/africa-groundwater-atlas)
+
+Tileset JSON is also available [here](https://watergis.github.io/africa-groundwater-atlas/tiles/tiles.json)
+
 ## Download data
 
 ```bash
